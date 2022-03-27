@@ -11,7 +11,7 @@ This project is very simple. The user just move the mouse point, then both eyes 
 * Move the mouse point, you will see the eyes moving.
 
 ## Future Improvements
-* Make PacMen close and open by time
+* Make Eyes close and open by time
 * Add more buttons to the project for adding more eyes, changing eye appearance, etc
 * Remove any eye 
 ## Lincense
