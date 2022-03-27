@@ -15,6 +15,7 @@ This project is very simple. The user just move the mouse point, then both eyes 
 * Add more buttons to the project for adding more eyes, changing eye appearance, etc
 * Remove any eye 
 ## Lincense
+#### MIT License
 
 Copyright (c) 2022 LengSann
 
